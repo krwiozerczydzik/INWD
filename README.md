@@ -1,2 +1,2 @@
 # INWD
-Informatyczne Narzędzia Wizualizacji Danych
+ Informatyczne Narzędzia Wizualizacji Danych
